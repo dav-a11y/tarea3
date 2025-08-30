@@ -14,7 +14,6 @@ Se incluye además la creación de un script sencillo.
 - Paquete `cowsay` instalado.
 
 ---
-
 ## Desarrollo paso a paso
 
 ### Navegación
@@ -27,7 +26,7 @@ Se incluye además la creación de un script sencillo.
 3. En la terminal Listar archivos y directorios:
    ls -l
 
-   ![paso 1]("C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\cd pwm ls.jpeg")
+   ![paso 1]("pantallazos\cd pwm ls.jpeg")
 
 ### Crear directorios  
    
@@ -39,7 +38,7 @@ Se incluye además la creación de un script sencillo.
    mkdir Practica_Linux/Documentos
    mkdir Practica_Linux/Backup
 
-   ![paso 2]("C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\mkdir.jpeg")
+   ![paso 2]("pantallazos\mkdir.jpeg")
 
 ### Crear y editar archivos
    
@@ -50,7 +49,7 @@ Se incluye además la creación de un script sencillo.
 2. En la terminal Editar el archivo:
    nano Practica_Linux/Documentos/nota.txt
 
-   ![paso 3]("C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\touch nano y cd.jpeg")
+   ![paso 3]("pantallazos\touch nano y cd.jpeg")
    
 3. En la terminal Verificar Contenido:
    Hola, este es mi primer archivo en Linux.
@@ -71,7 +70,7 @@ Se incluye además la creación de un script sencillo.
 1. Eliminar carpeta Backup:
    rmdir Practica_Linux/Backup
 
-   ![paso 4]("C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\rm.jpeg")
+   ![paso 4]("pantallazos\rm.jpeg")
 
 2. Ver contenido:
    cat Practica_Linux/Documentos/nota_final.txt
@@ -82,7 +81,7 @@ Se incluye además la creación de un script sencillo.
 1. Cambiar permisos:
    chmod 600 Practica_Linux/Documentos/nota_final.txt
 
-   ![paso 5]("C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\chmod.jpeg")
+   ![paso 5]("pantallazos\chmod.jpeg")
 
 
 2. Verificar:
@@ -96,20 +95,20 @@ Se incluye además la creación de un script sencillo.
 
 2. Buscar palabra "Linux":
 
-   ![paso 6]("C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\grep.jpeg")
+   ![paso 6]("pantallazos\grep.jpeg")
 
 ### Procesos
 
 1. Ver procesos:
    top
 
-   ![paso 7]("C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\htop.jpeg")
+   ![paso 7]("pantallazos\htop.jpeg")
 
 2. Crear proceso y matarlo:
    sleep 300 &
    kill [PID]
 
-   ![paso 8]("C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\sleep 300.jpeg")
+   ![paso 8]("pantallazos\sleep 300.jpeg")
 
 ### Paquetes
 
@@ -120,7 +119,7 @@ Se incluye además la creación de un script sencillo.
 2. Instalar cowsay:
    sudo apt install cowsay
 
-   ![paso 9](P"C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\cowsay.jpeg")
+   ![paso 9]("pantallazos\cowsay.jpeg")
 
 ### Script Final
 
@@ -134,6 +133,6 @@ Se incluye además la creación de un script sencillo.
 2. Ejecutar:
    bash mis_comandos.sh
 
-   ![paso 10]("C:\Users\pc\Desktop\david diaz\7 semestre\digitales 3\mis comandos 3.jpeg")
+   ![paso 10]("pantallazos\mis comandos 3.jpeg")
  
 
