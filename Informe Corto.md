@@ -133,6 +133,6 @@ Se incluye además la creación de un script sencillo.
 2. Ejecutar:
    bash mis_comandos.sh
 
-   ![paso 10](pantallazos/mis_comandos 3.jpeg)
+   ![paso 10](pantallazos/mis_comandos_3.jpeg)
  
 
