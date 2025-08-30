@@ -26,7 +26,7 @@ Se incluye además la creación de un script sencillo.
 3. En la terminal Listar archivos y directorios:
    ls -l
 
-   ![paso 1](pantallazos/cd pwm ls.jpeg)
+   ![paso 1](pantallazos/cd_pwm_ls.jpeg)
 
 ### Crear directorios  
    
